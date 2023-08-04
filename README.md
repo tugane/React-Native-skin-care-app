@@ -1,6 +1,9 @@
 # React-Native-skin-care-app
 ## Get Started
 
+<img width="1920" alt="screenshoot" src="https://github.com/tugane/React-Native-skin-care-app/assets/69383438/36a050f6-d6f4-4b47-b4c6-090a122860fa">
+
+
 install dev dependencies
 
 ### `npm install` or `yarn install`
